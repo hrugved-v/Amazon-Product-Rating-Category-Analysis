@@ -28,8 +28,3 @@ The dataset contains product-related information such as categories, ratings, an
 - Certain product categories have higher average ratings  
 - Variations exist across different categories  
 - Data trends indicate customer preferences  
-
-## 📸 Visualizations
-(Add your graphs/screenshots here)
-
-## 🚀 Project Structure
